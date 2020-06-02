@@ -3,4 +3,4 @@ PRODUCT_BUNDLE_IDENTIFIER = com.anyline.howto.mendix
 BUNDLE_DISPLAY_NAME = Native Test
 BUNDLE_IDENTIFIER = com.anyline.howto.mendix
 
-RUNTIME_URL = http:\/\/localhost:8080
+RUNTIME_URL = https:\/\/nativetest134-sandbox.mxapps.io
