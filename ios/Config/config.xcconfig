@@ -1,6 +1,6 @@
-PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+PRODUCT_BUNDLE_IDENTIFIER = com.anyline.howto.mendix
 
 BUNDLE_DISPLAY_NAME = Native Test
-BUNDLE_IDENTIFIER = com.mendix.nativetemplate
+BUNDLE_IDENTIFIER = com.anyline.howto.mendix
 
 RUNTIME_URL = http:\/\/localhost:8080
