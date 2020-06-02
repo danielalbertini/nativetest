@@ -48,6 +48,8 @@ def common_pods
   pod 'react-native-google-maps', :path => '../node_modules/react-native-maps'
   pod 'react-native-geocoder', :path => '../node_modules/react-native-geocoder'
 
+  pod 'AnylineReact', path: '../node_modules/anyline-ocr-react-native-module/ios'
+
   # Third party dependencies of dependencies
   pod 'GoogleMaps'
   pod 'Google-Maps-iOS-Utils'
